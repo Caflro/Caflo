@@ -1,2 +1,2 @@
-# Caflo
+# Caflro
 for own use right now
